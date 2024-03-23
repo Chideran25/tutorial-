@@ -15,3 +15,9 @@ let n = c/k;
 let e = n-m;
 
 console.log(e);
+
+function b(a){
+let b = a*a;
+return b
+} 
+ba = b(a);
